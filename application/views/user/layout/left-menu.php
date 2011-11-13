@@ -19,7 +19,7 @@
                         <h2>iProduct</h2>
                         <ul class="menu">
                             <li id="add-user-product"><?php echo Html::anchor('','สินค้าของฉัน');?></li>
-                            <li id="add-user-product">สินค้าที่โปรโมทแล้ว</li>
+                            <li id="add-user-product"><?php echo Html::anchor('','สินค้าที่โปรโมทแล้ว');?></li>
                         </ul>
                     </li>
                     <li>
